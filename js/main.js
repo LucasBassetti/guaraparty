@@ -576,7 +576,7 @@ for (var i = 0; i < songList.length; i++) {
     //            url: "http://katiebaca.com/tutorial/odd-look.mp3"
     //        }
     //    ],
-    addSong('', '', 'js/music.mp3', '')
+    addSong('', '', './main.mp3', '')
     setTimeout(function() {
         Player.init();
     }, 500);
